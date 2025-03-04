@@ -1,6 +1,7 @@
 <template>
+  <div class="flex-1 h-0.5 bg-blue-700 grow" ></div>
   <section class="technology-section m-10 p-10 flex">
-    <h2 class="text-center p-8 text-6xl font-bold text-blue-500">Technology</h2>
+    <h2 class="text-center p-8 text-6xl font-bold text-blue-500 mt-20">Technology</h2>
     <div class="max-w-4xl mx-auto px-4 text-lg">
       <p>
         At Nirvana Tech, I build powerful, scalable, and secure digital
@@ -27,7 +28,7 @@
       </ul>
       <p class="mt-4">
         I continuously evolve my stack to stay ahead of the curve, delivering
-        innovative and future-ready solutions. 🚀
+        innovative and future-ready solutions.
       </p>
     </div>
   </section>
