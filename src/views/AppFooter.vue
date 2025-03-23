@@ -24,12 +24,12 @@
           >
             <img
               class="w-10 h-10"
-              src="../photos/Linkedin.svg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
               alt="LinkedIn"
             />
           </a>
           <a href="https://github.com/NRvBOSS">
-            <img class="w-10 h-10" src="../photos/GitHub.svg" alt="GitHub" />
+            <img class="w-10 h-10" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" />
           </a>
         </div>
       </div>
