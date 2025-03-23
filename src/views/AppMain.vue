@@ -1,6 +1,6 @@
 <template>
   <div
-    class="mt-25 relative w-full h-[650px] bg-[url('../photos\colorful-banner-with-hands-working-on-computer-vector-21894954.jpg')] bg-cover bg-center"
+    class="mt-25 relative w-full h-[650px] bg-[url('https://www.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm')] bg-cover bg-center"
   >
     <div class="absolute left-10 top-1/3 bg-blue-200 w-1/3 h-1/6 p-3 pl-10 shadow-2xl rounded-3xl">
       <h2 class="font-bold text-3xl text-gray-800 animate ">Nirvana Tech</h2>
