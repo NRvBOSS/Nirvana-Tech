@@ -14,7 +14,7 @@
           JavaScript and Tailwind CSS for dynamic and responsive interfaces.
         </li>
         <li>
-          <strong>Robust Backend Systems</strong> – Node.js with NestJS,Express.js
+          <strong>Robust Backend Systems</strong> – Node.js with NestJS, Express.js
           ensuring high-performance APIs and seamless data flow.
         </li>
         <li>
